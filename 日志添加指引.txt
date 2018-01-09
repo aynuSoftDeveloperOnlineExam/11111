@@ -1,0 +1,3 @@
+http://blog.csdn.net/zdw_wym/article/details/48802821
+
+asp.net Web项目中使用Log4Net进行错误日志记录
